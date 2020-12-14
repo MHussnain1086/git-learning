@@ -1,0 +1,62 @@
+.top{
+    background-color: black;
+    padding-bottom: 24px;
+}
+.one{
+    padding:24px 24px 30px 24px;
+
+}
+.word{
+    color: rgba(166, 166, 166, 1);
+    font-size: 18px;
+    font-weight: bold;
+}
+#azul{ 
+    font-size: 15px; 
+}
+.ndtop{
+    background-color: #383838;
+    background-image: url(https://kubernetes.io/images/texture.png);
+    color:white;
+    padding:16px 0px 24px;
+}
+.k8{
+background-image: url(https://kubernetes.io/_common-resources/images/kub_video_banner_homepage.jpg) ;
+background-size:cover;
+width:auto;
+margin-top: 80px;
+padding-bottom: 100px;
+}
+.k9{   
+    padding-top: 70px;
+    background-color: #f7f7f7;
+    padding-bottom: 40px;
+}
+.heading{
+    font-size: 20px;
+    padding-top: 15px;
+}
+.data{
+    font-size: 14px;
+}
+.k10{
+    
+    background-color: #f7f7f7;
+
+}
+.k11{
+    color: white;
+    background-color: #303030;
+background-image: url(https://kubernetes.io/images/texture.png);
+}
+.kabul
+{
+    display: inline;
+}
+@media screen and (max-width:576px)
+{
+    .azul{
+        display: flex;
+        flex-direction:column-reverse;
+    }
+}
